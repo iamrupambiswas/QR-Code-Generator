@@ -6,14 +6,13 @@ A simple QR Code Generator web application built with Node.js, Express.js, EJS, 
 
 ## Table of Contents
 
-- Overview
-- Features
-- Requirements
-- Installation
-- Usage
-- Technologies Used
-- Contributing
-- License
+- [Overview](https://github.com/iamrupambiswas/QR-Code-Generator?tab=readme-ov-file#overview)
+- [Features](https://github.com/iamrupambiswas/QR-Code-Generator?tab=readme-ov-file#features)
+- [Requirements](https://github.com/iamrupambiswas/QR-Code-Generator?tab=readme-ov-file#requirements)
+- [Installation](https://github.com/iamrupambiswas/QR-Code-Generator?tab=readme-ov-file#installation)
+- [Usage](https://github.com/iamrupambiswas/QR-Code-Generator?tab=readme-ov-file#usage)
+- [Technologies Used](https://github.com/iamrupambiswas/QR-Code-Generator?tab=readme-ov-file#technologies-used)
+- [Contributing](https://github.com/iamrupambiswas/QR-Code-Generator?tab=readme-ov-file#contributing)
 ## Overview
 
 This project is a web-based QR Code Generator that allows users to input a URL and generate QR codes for the provided link. The application is built using Node.js as the server runtime, Express.js as the web framework, and EJS as the templating engine.
